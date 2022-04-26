@@ -1,5 +1,5 @@
-# queens8 Package 0.1.1
-last change 17-Feb-2022
+# queens8 Package 0.1.2
+last change 25-Apr-2022
 
 ## Introduction to the n Queens and 8 Queens problem.
 In the 19th century the n Queens puzzle was formulated. The aim of the puzzle was to place
@@ -46,7 +46,7 @@ lies between the King and Queen columns. A vertical reflection is around the lin
 There are also reflections around the longest up diagonal and the longest down diagonal. Both of these diagonal
 reflections together are a reflection about the center point of the board.
 
-Any composition of these operations is again another symmety.
+Any composition of these operations is again another symmetry.
 We keep putting new ones in until there are no new symmetries.
 
 ## The Dijikstra Wirth algorithm.

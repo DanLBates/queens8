@@ -1,9 +1,13 @@
 Change Log (dates in yyyymmdd format)
 ==========
-0.1.0 20220217
 ------------------------------
-- First, Initial Release
- This has been in existence for some months. Just only formalized now and about to go into a git repository and submitted to PyPi.
+0.1.2 20220425
+ Make "dan.bates" a searchable keyword in setup.cfg
+ In READNE,md change symmety to symmetry.
 --------------------------------
 0.1.1 20220217
  Teething problems, minor change to README.md
+------------------------------
+0.1.0 20220217
+- First, Initial Release
+ This has been in existence for some months. Just only formalized now and about to go into a git repository and submitted to PyPi.
